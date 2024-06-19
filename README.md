@@ -11,6 +11,7 @@ Image Generation & Music recommend & Sentiment classification server
 ## Machine Detail
 
 Machine: GCP VM - N1 standard
+
 GPU: NVIDIA T4
 
 ## How to run
