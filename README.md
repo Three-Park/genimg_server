@@ -7,6 +7,7 @@ Image Generation & Music recommend & Sentiment classification server
 ## set environment
 
     chmod +x install_packages.sh
+    ./install_packages.sh
 
 ## Machine Detail
 
